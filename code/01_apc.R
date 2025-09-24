@@ -23,7 +23,7 @@ unique(dts$year)
 unique(dts$age)
 unique(dts$country)
 
-ct <- "El Salvador"
+ct <- "Costa Rica"
 sx <- "t"
 pmin <- 1950
 pmax <- 2023
